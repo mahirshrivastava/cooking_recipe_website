@@ -402,3 +402,10 @@ cooking_env/
 
 # pycache
 __pycache__/
+
+# gitignore
+.gitignore
+
+# vscode
+.vscode
+.angular
